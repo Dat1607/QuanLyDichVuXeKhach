@@ -1,0 +1,30 @@
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\bin\Debug\BCrypt.Net.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\bin\Debug\BCrypt.Net.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BCrypt.Net.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BCrypt.Net.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.pdb
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BLL_DAL.pdb
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BCrypt.Net.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\bin\Debug\BCrypt.Net.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.AssemblyReference.cache
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\BLL_DAL\obj\Debug\BLL_DAL.pdb

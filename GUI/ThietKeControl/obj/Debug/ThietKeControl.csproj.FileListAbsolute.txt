@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\ThietKeControl\bin\Debug\ThietKeControl.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\ThietKeControl\bin\Debug\ThietKeControl.pdb
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\ThietKeControl\obj\Debug\ThietKeControl.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\ThietKeControl\obj\Debug\ThietKeControl.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\ThietKeControl\obj\Debug\ThietKeControl.pdb
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\ThietKeControl\bin\Debug\ThietKeControl.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\ThietKeControl\bin\Debug\ThietKeControl.pdb
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\ThietKeControl\obj\Debug\ThietKeControl.csproj.AssemblyReference.cache
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\ThietKeControl\obj\Debug\ThietKeControl.csproj.CoreCompileInputs.cache
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\ThietKeControl\obj\Debug\ThietKeControl.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\ThietKeControl\obj\Debug\ThietKeControl.pdb

@@ -1,0 +1,271 @@
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.pdb
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.dll.config
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTrangChu.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\BCrypt.Net.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\BCrypt.Net.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDangKy.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmNhanVien.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmQuyen.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmPhanQuyen.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmNhomQuyen.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChuyenXe.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTimTheoCCCD.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmXe.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmVe.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonChuyen.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe16.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDatVe.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe33.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe49.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTraCuuVe.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ThietKeControl.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ThietKeControl.pdb
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmManHinh.resources
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\PhanMemQuanLyDichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\BCrypt.Net.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ThietKeControl.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.pdb
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.dll.config
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ThietKeControl.pdb
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\BCrypt.Net.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonChuyen.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe16.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe33.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe49.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChuyenXe.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDangKy.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDatVe.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmManHinh.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmNhanVien.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmNhomQuyen.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmPhanQuyen.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmQuyen.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmThemXeChoChuyen.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTimTheoCCCD.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTraCuuVe.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTrangChu.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmVe.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmXe.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\User\OneDrive\Máy tính\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmThanhToan.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\GUI.exe.config
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\GUI.exe
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\GUI.pdb
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\BCrypt.Net.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.v21.2.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ThietKeControl.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.pdb
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\BLL_DAL.dll.config
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ThietKeControl.pdb
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\BCrypt.Net.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Data.v21.2.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonChuyen.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe16.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe33.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChonGhe49.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmChuyenXe.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDangKy.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmDatVe.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmManHinh.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmNhanVien.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmNhomQuyen.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmPhanQuyen.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmQuyen.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmThanhToan.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmThemXeChoChuyen.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTimTheoCCCD.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTraCuuVe.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmTrangChu.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmVe.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.FrmXe.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.exe.licenses
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.exe
+D:\QuanTrong\HK1_Nam4\DichVuXeKhach\GUI\GUI\obj\Debug\GUI.pdb
